@@ -1,5 +1,5 @@
 Design:
-10% of all minted coins are sent to whoever created the coin
-If the previous block hash ends in a number divisible by 3, mint them a third of what they were supposed to get 
+10% of all minted coins are sent to Simon Wacziarg
+If the previous block has over ten transactions, whoever mines the next block gets twice as much coin as the reward
 If the address mining coin holds two distinct coins other than this coin, do not allow that person to withdraw
 1% of every transaction is sent to the wallet of a children's hospital, along with two other random coins bought with another 0.5% of the transaction
